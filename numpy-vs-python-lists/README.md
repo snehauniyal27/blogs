@@ -6,7 +6,7 @@ Python offers various data structures, but when it comes to handling large-scale
 
 ---
 
-## 🔍 Key Concepts
+## Key Concepts
 
 - **Python Lists** are flexible but slow due to dynamic typing and memory fragmentation.
 - **NumPy Arrays** are fixed-type and stored in contiguous memory, resulting in faster operations.
